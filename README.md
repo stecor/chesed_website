@@ -1,6 +1,6 @@
-# chesed_website
+# Chesed Website
 
-To build the project locally, run:
+To build the project locally, download the files and run:
 
 ```
 npm install
