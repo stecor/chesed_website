@@ -75,23 +75,25 @@ p{
   color:#666;
 }
 
-#info1{
-  margin: 400px 0 400px 0;
+#about{
+  margin: 400px 0 600px 0;
   height:100%;
 }
 
-#info2{
-  margin: 200px 0 200px 0;
+
+
+#info1{
+  margin-top: 800px;
 }
 
-#info3{
+#info2{
   margin: 200px 0 300px 0;
 }
 
 #contact{
   color: #fff;
   margin-top: 230px;
-  margin-bottom: 100px
+  margin-bottom: 100px;
 }
 
 #contact img{
