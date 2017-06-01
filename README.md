@@ -1,6 +1,8 @@
 # Chesed Website
 
-To build the project locally, download the files and run:
+Live demo: [stecor.github.io/chesed_website](http://stecor.github.io/chesed_website/)
+
+To build the project locally, download or clone the files and run:
 
 ```
 npm install
